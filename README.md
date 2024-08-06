@@ -15,16 +15,35 @@ Project Scope:
 3. Identify and prioritize customer complaints and issues to resolve them swiftly.
 4. Implement early warning systems to detect potential crises and take proactive measures.
 
-key Findings 
+Key Findings:
 
-1. TikTok and Instagram are the platforms with the most profitable platforms and also the platforms with the highest engagements
-2. Top products include Smartphones, Laptop and Tablets
-3. The top regions with the highest sales include Rodes Islands, Iowa, West Virginia, Oklahama, etc
-4. The average purchase is $780.43, minimum purchase, $100, maximum purchase, $1999.56 and total sales, 1930774.69
-5. Although the top regions are Rhode Islands and co, the top customers aren't necessarily from this region
-6. The average engegement rate is 0.118.
+- TikTok and Instagram are the most profitable platforms, with the highest engagement rates.
 
-Recomendations: I recommend that AfriTech should;
-1. increase there presence on other social media platforms like LinkedIn and Fcaebook
-2. The focus should be on creating contents that has images and links rather than texts as this attracts more engagements in various social platforms
-3. Have a reward for loyal customers so as to increase patronage.
+- Top-selling products include Smartphones, Laptops, and Tablets.
+
+- The top regions for sales are Rhode Island, Iowa, West Virginia, Oklahoma, and others.
+
+- Purchase statistics:
+
+  - Average purchase: $780.43
+
+  - Minimum purchase: $100
+
+  - Maximum purchase: $1999.56
+
+  - Total sales: $1,930,774.69
+
+- Note: Top regions do not necessarily correspond to the locations of top customers.
+
+- Average engagement rate: 0.118
+
+Recommendations:
+
+Based on the analysis, I recommend that AfriTech:
+
+1. Expand social media presence: Increase presence on other platforms like LinkedIn and Facebook to reach a broader audience.
+
+2. Content strategy: Focus on creating content with images and links, as this attracts more engagement across various social platforms.
+
+3. Loyalty program: Implement a reward system for loyal customers to increase patronage and retention.
+
